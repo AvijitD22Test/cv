@@ -1,0 +1,111 @@
+.first-container {
+    background-color: #95D1CC;
+    width: auto;
+    height: auto;
+}
+
+.cloud-1 {
+    display: inline-block;
+    position: relative;
+    right: 500px;
+    top: 150px;
+}
+
+.cloud-2 {
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    top: 70px;
+}
+
+.cloud-3 {
+    display: inline-block;
+    position: relative;
+    top: -350px;
+    left: 200px;
+}
+
+.cloud-4 {
+    display: inline-block;
+    position: relative;
+    bottom: 430px;
+    left: 700px;
+}
+
+.cloud-5 {
+    display: inline-block;
+    position: relative;
+    right: 150px;
+}
+
+.mountain-1 {
+    position: relative;
+    align-self: center;
+    width: 950px;
+    right: 50px;
+}
+
+.name {
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 65px;
+    font-family: 'Waterfall', cursive;
+    font-size: 90px;
+}
+
+h2 {
+    font-family: 'Waterfall', cursive;
+    font-size: 60px;
+}
+
+p {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 200%;
+}
+
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+hr {
+    align-self: center;
+    border-style: dotted;
+    border-top: none;
+    border-spacing: 20%;
+    border-width: 10px;
+    width: 5%;
+    border-color: #95D1CC;
+}
+
+.middle-container {
+    background-color: #93FFD8;
+}
+
+br {
+    color: #95D1CC;
+}
+
+.bottom-container {
+    background-color: black;
+}
+
+.footer-link1 {
+    position: relative;
+    left: -100px;
+    top: 20px;
+}
+
+.footer-link2 {
+    position: relative;
+    top: 20px;
+}
+
+.footer-link3 {
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
