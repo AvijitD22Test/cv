@@ -1,0 +1,159 @@
+.Top-div {
+    background-color: #EAF6F6;
+    margin: -8px;
+}
+
+.Cloud-image-1 {
+    position: relative;
+    top: 10px;
+    left: 500px;
+}
+
+.Heading-name {
+    color: #66BFBF;
+    padding-top: 2%;
+    font-size: 1100%;
+    font-family: 'Tangerine', cursive;
+    line-height: 1px;
+}
+
+.Below-head {
+    color: #66BFBF;
+    font-family: 'Tangerine', cursive;
+    font-size: 200%;
+}
+
+.Cloud-image-2 {
+    position: relative;
+    bottom: 420px;
+    left: 70px;
+}
+
+.Mountain-image {
+    width: 50%;
+    height: 50%;
+}
+
+.Profile-photo {
+    width: 200px;
+    height: 200px;
+}
+
+.Greeting {
+    color: #66BFBF;
+    font-size: 300%;
+    font-family: 'Tangerine', cursive;
+}
+
+
+.Myself {
+    font-size: 25px;
+    color: #40514E;
+    font-weight: bold;
+}
+
+hr {
+    color: #EAF6F6;
+    border-style: dotted none none none;
+    border-width: 10px;
+    width: 4%;
+}
+
+.My-skills {
+    font-family: 'Tangerine', cursive;
+    font-size: 300%;
+    color: #66BFBF;
+}
+
+.Web-dev-gif {
+    display: inline-block;
+    margin-right: -10%;
+    border-radius: 20%;
+}
+
+.My-skill-1 {
+    float: right;
+    font-size: 25px;
+    color: #40514E;
+    font-weight: bold;
+    position: relative;
+    right: 4%;
+}
+
+
+.Skill-table-1 {
+    font-weight: normal;
+    float: right;
+    position: absolute;
+    left: 60%;
+    top: 220%;
+}
+
+.Skill-table-2 {
+    display: inline-block;
+    padding-right: 5%;
+}
+
+.Skill-table-3 {
+    display: inline-block;
+    padding-left: 5%;
+}
+
+.Other {
+    font-size: 25px;
+    color: #40514E;
+    font-weight: bold;
+    position: relative;
+    right: 10%;
+}
+
+.Game-gif {
+    border-radius: 10%;
+    float: right;
+    width: 10%;
+    height: 18%;
+    position: absolute;
+    top: 282%;
+    left: 65%;
+}
+
+.Get-in-touch {
+    color: #66BFBF;
+    font-size: 300%;
+    font-family: 'Tangerine', cursive;
+}
+
+.Project-and-game {
+    color: #66BFBF;
+    font-size: 150%;
+}
+
+.Contact-me {
+    color: white;
+    background-color: #66BFBF;
+    padding: 15px;
+    border-radius: 10%;
+    text-decoration: none;
+}
+
+.Bottom-div {
+    background-color: black;
+    padding: 1%;
+    margin: -0.5em;
+}
+
+.Linkedin-image {
+    width: 3%;
+    height: 3%;
+    padding-left: 47%;
+}
+
+.Twitter-image{
+    height: 3%;
+    width: 3%;
+}
+
+.Copyright{
+    color: white;
+    font-size: 200%;
+}
